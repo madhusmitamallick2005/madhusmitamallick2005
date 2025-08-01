@@ -2,15 +2,32 @@
 
 🎓 BCA Student | 🤖 AI Enthusiast  
 🔭 Currently working on:
-- To-Do List Web App (HTML/CSS/JS)
+- Student record management (java)
 - AI Projects (Disease Detection, Customer Churn, Price Prediction)
 
+📜 Certificates
+- Infosys Springboard Internship (AI, Data Science, Deep learning,Agile scrum , AI Architect)
+- Internshala Python & ML Courses
+
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- Java (OOPs)
+- Python, Pandas, NumPy
+- DBMS, SQL
+- C, C++
+
 🌱 Learning:
-- GitHub, Java, Python, Web Design
+- GitHub, Python, Web Design 
+
+## 🛠️ Workshops Attended
+-📌**[AI & DEEP LEARNING]** – [FirstBitSolutions.com] ([19th July 2025])
 
 📫 Reach me on:
+
 - [LinkedIn](https://www.linkedin.com) *([](https://www.linkedin.com/in/madhusmita-mallick-b60270341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])##
-<!--
+
+- [@gmail] [mmadhusmita128@gmail.com]
+
 **madhusmitamallick2005/madhusmitamallick2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
