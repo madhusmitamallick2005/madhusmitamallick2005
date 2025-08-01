@@ -1,5 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I’m Madhusmita Mallick
 
+🎓 BCA Student | 🤖 AI Enthusiast  
+🔭 Currently working on:
+- To-Do List Web App (HTML/CSS/JS)
+- AI Projects (Disease Detection, Customer Churn, Price Prediction)
+
+🌱 Learning:
+- GitHub, Java, Python, Web Design
+
+📫 Reach me on:
+- [LinkedIn](https://www.linkedin.com) *(add your link later)*##
 <!--
 **madhusmitamallick2005/madhusmitamallick2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
