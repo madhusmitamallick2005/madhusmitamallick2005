@@ -9,7 +9,7 @@
 - GitHub, Java, Python, Web Design
 
 📫 Reach me on:
-- [LinkedIn](https://www.linkedin.com) *(add your link later)*##
+- [LinkedIn](https://www.linkedin.com) *([](https://www.linkedin.com/in/madhusmita-mallick-b60270341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])##
 <!--
 **madhusmitamallick2005/madhusmitamallick2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
