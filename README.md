@@ -24,9 +24,8 @@
 
 📫 Reach me on:
 
--[LinkedIn](https://www.linkedin.com/in/madhusmita-mallick-b6027034) 
-
-- [Gmail] [mailto:mmadhusmita128@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/madhusmita-mallick-b60270341)
+- [Gmail](mailto:mmadhusmita128@gmail.com)
 
 **madhusmitamallick2005/madhusmitamallick2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
